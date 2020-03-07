@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/project-by-training/static/css/main.b2b50ce2.chunk.css",
+    "main.js": "/project-by-training/static/js/main.09062845.chunk.js",
+    "main.js.map": "/project-by-training/static/js/main.09062845.chunk.js.map",
+    "runtime-main.js": "/project-by-training/static/js/runtime-main.573ece19.js",
+    "runtime-main.js.map": "/project-by-training/static/js/runtime-main.573ece19.js.map",
+    "static/js/2.9b7f6a90.chunk.js": "/project-by-training/static/js/2.9b7f6a90.chunk.js",
+    "static/js/2.9b7f6a90.chunk.js.map": "/project-by-training/static/js/2.9b7f6a90.chunk.js.map",
+    "index.html": "/project-by-training/index.html",
+    "precache-manifest.f197359554845856ed825129941f0de5.js": "/project-by-training/precache-manifest.f197359554845856ed825129941f0de5.js",
+    "service-worker.js": "/project-by-training/service-worker.js",
+    "static/css/main.b2b50ce2.chunk.css.map": "/project-by-training/static/css/main.b2b50ce2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.573ece19.js",
+    "static/js/2.9b7f6a90.chunk.js",
+    "static/css/main.b2b50ce2.chunk.css",
+    "static/js/main.09062845.chunk.js"
+  ]
+}
