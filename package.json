@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://Mykhail1387.github.io/project-by-training",
   "dependencies": {
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^5.0.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.2.0"
